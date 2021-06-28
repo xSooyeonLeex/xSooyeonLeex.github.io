@@ -47,16 +47,8 @@ contract BVC {
     }
     //-- 투표장 구조체 생성
 ```
----
-'markdown으로 다이어그램'
-```mermaid
-    graph LR
-    server-->appRouter
-    server-->webRouter
-    webRouter-->blockFunc
-    webRouter-->dbFunc
-    webRouter-->funcHandling   
-```
+
+
 ---
 ~~오늘은 여기까지~~
 ---
